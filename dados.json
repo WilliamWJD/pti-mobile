@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "X-Tudo",
+        "calorias": 750,
+        "valor": 55.50
+    },
+    {
+        "id": 2,
+        "nome": "X-Salada",
+        "calorias": 550,
+        "valor": 22.50
+    },
+    {
+        "id": 3,
+        "nome": "Especial da Casa",
+        "calorias": 1250,
+        "valor": 70.50
+    }
+]
