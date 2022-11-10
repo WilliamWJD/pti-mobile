@@ -1,12 +1,9 @@
 import { useState } from "react";
 import { StyleSheet, View, FlatList } from "react-native";
 import { Food } from "../components/Food";
-
 import bancoJson from '../dados.json';
-
 export function Home() {
     const [dados, setDados] = useState(bancoJson);
-
     return (
         <View style={styles.container}>
             <View style={styles.listaFood}>
