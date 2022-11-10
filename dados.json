@@ -3,18 +3,42 @@
         "id": 1,
         "nome": "X-Tudo",
         "calorias": 750,
-        "valor": 55.50
+        "valor": 55.50,
+        "image": "https://www.nicepng.com/png/full/878-8788790_hamburguer-x-tudo-png.png"
     },
     {
         "id": 2,
         "nome": "X-Salada",
         "calorias": 550,
-        "valor": 22.50
+        "valor": 22.50,
+        "image": "https://semmedida.com/wp-content/uploads/2015/10/x-salada.png"
     },
     {
         "id": 3,
         "nome": "Especial da Casa",
         "calorias": 1250,
-        "valor": 70.50
+        "valor": 70.50,
+        "image": "https://www.bobs.com.br/media/filer_public_thumbnails/filer_public/40/5b/405b6a1b-6a5d-42d0-80dd-14acb57d21fc/big_bob.png__1200x630_subsampling-2_upscale.png"
+    },
+    {
+        "id": 4,
+        "nome": "X-Mizeria",
+        "calorias": 750,
+        "valor": 55.50,
+        "image": "https://www.nicepng.com/png/full/878-8788790_hamburguer-x-tudo-png.png"
+    },
+    {
+        "id": 5,
+        "nome": "X-Infarto",
+        "calorias": 550,
+        "valor": 22.50,
+        "image": "https://semmedida.com/wp-content/uploads/2015/10/x-salada.png"
+    },
+    {
+        "id": 6,
+        "nome": "Morto de Fome",
+        "calorias": 1250,
+        "valor": 70.50,
+        "image": "https://www.bobs.com.br/media/filer_public_thumbnails/filer_public/40/5b/405b6a1b-6a5d-42d0-80dd-14acb57d21fc/big_bob.png__1200x630_subsampling-2_upscale.png"
     }
 ]
